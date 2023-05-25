@@ -1,0 +1,13 @@
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\bin\Debug\Phone_Book.exe.config
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\bin\Debug\Phone_Book.exe
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\bin\Debug\Phone_Book.pdb
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.csproj.AssemblyReference.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.Form1.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.Frm_Add.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.Properties.Resources.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.csproj.GenerateResource.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.csproj.CoreCompileInputs.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.exe
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.pdb
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.Frm_Del.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Phone_Book\Phone_Book\Phone_Book\obj\Debug\Phone_Book.Frm_Show.resources
